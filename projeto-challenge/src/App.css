@@ -1,0 +1,60 @@
+
+
+h1 {
+  margin: 0;
+  padding: 20px;
+}
+
+.liststyle {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px solid #eee; 
+  transition: background-color 0.3s;
+}
+
+.liststyle:hover {
+  background-color: #f0f0f0; 
+}
+
+.w-10.h-10 {
+  width: 40px; 
+  height: 40px; 
+}
+
+.rounded-full {
+  border-radius: 50%; 
+}
+
+.flex.items-center {
+  display: flex;
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.mr-4 {
+  margin-right: 16px;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.text-white {
+  color: white;
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+.object-cover {
+  object-fit: cover;
+}
