@@ -1,0 +1,3 @@
+setupFiles: [
+  "jest-fetch-mock"
+]
